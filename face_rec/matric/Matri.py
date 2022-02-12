@@ -42,5 +42,4 @@ class Matri:
         print("\n============\n", m3)
         print("\n============\n", m4)
         print("\n============\n", m5)
-
         return

@@ -1,3 +1,3 @@
 {
-    "files": ["ui/MainWindow.py","media/ComVersion.py","main.py","ui/Panel.py","matric/Matri.py"]
+    "files": ["ui/MainWindow.py","media/ComVersion.py","ui/Panel.py","matric/Matri.py","main.py"]
 }

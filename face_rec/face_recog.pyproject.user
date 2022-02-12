@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.13.1, 2022-02-12T22:52:10. -->
+<!-- Written by QtCreator 4.13.1, 2022-02-12T23:03:41. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -67,9 +67,6 @@
    <valuemap type="QVariantMap" key="AutoTest.CheckStates"/>
    <value type="int" key="AutoTest.RunAfterBuild">0</value>
    <value type="bool" key="AutoTest.UseGlobal">true</value>
-   <valuelist type="QVariantList" key="ClangCodeModel.CustomCommandLineKey"/>
-   <value type="bool" key="ClangCodeModel.UseGlobalConfig">true</value>
-   <value type="QString" key="ClangCodeModel.WarningConfigId">Builtin.Questionable</value>
    <valuemap type="QVariantMap" key="ClangTools">
     <value type="bool" key="ClangTools.BuildBeforeAnalysis">true</value>
     <value type="QString" key="ClangTools.DiagnosticConfig">Builtin.DefaultTidyAndClazy</value>
@@ -167,12 +164,12 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">main</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/shaneluo/prog/python_/face_rec/main.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/shaneluo/prog/python_/face_rec/main.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Matri</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/shaneluo/prog/python_/python_play/face_rec/matric/Matri.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/shaneluo/prog/python_/python_play/face_rec/matric/Matri.py</value>
     <value type="bool" key="PythonEditor.RunConfiguation.Buffered">false</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{c731d4a4-7123-46ea-a0ad-15529c2119c0}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/shaneluo/prog/python_/face_rec/main.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/shaneluo/prog/python_/python_play/face_rec/matric/Matri.py</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -182,7 +179,7 @@
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default"></value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/shaneluo/prog/python_/python_play/face_rec/matric</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.1">
     <value type="QString" key="Analyzer.Perf.CallgraphMode">dwarf</value>
@@ -245,12 +242,12 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">MainWindow2</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/shaneluo/prog/python_/face_rec/ui/MainWindow.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/shaneluo/prog/python_/face_rec/ui/MainWindow.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">MainWindow</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/shaneluo/prog/python_/python_play/face_rec/ui/MainWindow.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/shaneluo/prog/python_/python_play/face_rec/ui/MainWindow.py</value>
     <value type="bool" key="PythonEditor.RunConfiguation.Buffered">false</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter"></value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/shaneluo/prog/python_/face_rec/ui/MainWindow.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/shaneluo/prog/python_/python_play/face_rec/ui/MainWindow.py</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -323,12 +320,12 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Panel</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/shaneluo/prog/python_/face_rec/ui/Panel.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/shaneluo/prog/python_/face_rec/ui/Panel.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">ComVersion</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/shaneluo/prog/python_/python_play/face_rec/media/ComVersion.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/shaneluo/prog/python_/python_play/face_rec/media/ComVersion.py</value>
     <value type="bool" key="PythonEditor.RunConfiguation.Buffered">false</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter"></value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/shaneluo/prog/python_/face_rec/ui/Panel.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/shaneluo/prog/python_/python_play/face_rec/media/ComVersion.py</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -401,12 +398,12 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">ComVersion</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/shaneluo/prog/python_/face_rec/media/ComVersion.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/shaneluo/prog/python_/face_rec/media/ComVersion.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">main</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/shaneluo/prog/python_/python_play/face_rec/main.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/shaneluo/prog/python_/python_play/face_rec/main.py</value>
     <value type="bool" key="PythonEditor.RunConfiguation.Buffered">false</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter"></value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/shaneluo/prog/python_/face_rec/media/ComVersion.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/shaneluo/prog/python_/python_play/face_rec/main.py</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -479,12 +476,12 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Matri</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/shaneluo/prog/python_/face_rec/matric/Matri.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/shaneluo/prog/python_/face_rec/matric/Matri.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Panel</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/shaneluo/prog/python_/python_play/face_rec/ui/Panel.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/shaneluo/prog/python_/python_play/face_rec/ui/Panel.py</value>
     <value type="bool" key="PythonEditor.RunConfiguation.Buffered">false</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter"></value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/shaneluo/prog/python_/face_rec/matric/Matri.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/shaneluo/prog/python_/python_play/face_rec/ui/Panel.py</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>

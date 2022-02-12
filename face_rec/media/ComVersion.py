@@ -18,12 +18,6 @@ class CameraControl:
             self.capture.release()
             cv2.destroyAllWindows
 
-    def matToQPixmap(self, cvimg):
-        h, w, d = cvimg.shape
-        # cving = QtGui.QImage(cvimg.data, w, h, w*d, QtGui.QImage.Format_Grayscale16)
-        cving = QtGui.QImage(cvimg.data, w, h, w*d, QtGui.QImage.Format_RGB888)
-        return QtGui.QPixmap( cving )
-
     def getFrame(self):
         if not self.isCameraOpen:
             print("camera is not open!")

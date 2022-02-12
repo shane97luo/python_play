@@ -2,7 +2,6 @@
 
 from PyQt5.QtWidgets import QMainWindow
 from PyQt5.QtCore import QTimer
-
 from ui.Panel import Panel
 
 from media.ComVersion import CameraControl
@@ -36,8 +35,7 @@ class MainWindow(QMainWindow):
 
     def update(self):
         frame = self.cameraCtl.getFrame()
-        pix_map = self.cameraCtl.matToQPixmap(frame)
-        self.face_win.showImg(pix_map)
+        self.face_win.showCvImg(frame)
         pass
 
     def startVideo(self):

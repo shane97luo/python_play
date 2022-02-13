@@ -24,6 +24,10 @@ class MainWindow(QMainWindow):
 
         self.timer = QTimer()
         self.timer.timeout.connect(self.update)
+
+        self.face_win.btnOpenCamera.clicked.connect(self.cameraCtl.open)
+        self.face_win.btnCloseCamera.clicked.connect(self.cameraCtl.close)
+        self.face_win.btnCloseCamera.clicked.connect(self.cameraCtl.close)
         print("========init the mainwindow========")
         pass
 
@@ -34,8 +38,9 @@ class MainWindow(QMainWindow):
         pass
 
     def update(self):
-        frame = self.cameraCtl.getFrame()
-        self.face_win.showCvImg(frame)
+        r, frame = self.cameraCtl.getFrame()
+        if r:
+            self.face_win.showCvImg(frame)
         pass
 
     def startVideo(self):

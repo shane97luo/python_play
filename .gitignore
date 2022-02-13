@@ -1,0 +1,4 @@
+*.user
+face_rec/__pycache__/*
+face_rec/ui/__pycache__/*
+face_rec/media/__pycache__/*
